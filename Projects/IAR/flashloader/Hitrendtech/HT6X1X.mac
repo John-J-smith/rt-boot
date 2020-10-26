@@ -1,0 +1,9 @@
+execUserFlashInit()
+{     
+    __message "Reset FLASH readout protection";
+
+
+__var reg;
+    __message("-I- execUserFlashInit!");
+
+}
